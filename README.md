@@ -1,5 +1,5 @@
 # BibliaPlay
-Proyecte la Biblia sin complicaciones
+Proyecte la Biblia sin complicaciones.
 Características:
 - Reproductor de Audio y Video
 - Reproduce Listas de videos
