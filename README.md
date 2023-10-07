@@ -13,3 +13,4 @@ Características:
 - Textos, sombras y Fondos a color
 - Búsqueda y Filtro de Archivos
 - Reproductor de Video HTML Editable
+- Aplicación hecho en Gambas solo Linux, Hecho y Probado en Manjaro Linux escritorio LXQT.
