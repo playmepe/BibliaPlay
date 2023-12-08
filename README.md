@@ -15,3 +15,4 @@ Características:
 - Reproductor de Video HTML Editable
 - Aplicación hecho en Gambas solo Linux, Hecho y Probado en Manjaro Linux escritorio LXQT.
 ![2023-12-07_16-44](https://github.com/playmepe/BibliaPlay/assets/13964250/cc803846-77f7-4433-9a94-687e11de9924)
+![2023-12-07_19-24](https://github.com/playmepe/BibliaPlay/assets/13964250/b412a660-3625-4fee-923c-59f7a857d7dc)
