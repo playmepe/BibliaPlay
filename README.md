@@ -25,5 +25,5 @@ Características:
 ![2023-12-07_19-29](https://github.com/playmepe/BibliaPlay/assets/13964250/dfd4e68b-5d22-4aee-b3bb-abfacbb29572)
 
 Si esta aplicación le ayudó en su vida no dude en donar desde este link: https://www.paypal.com/donate/?hosted_button_id=DBFEBYRRHWXHU
-<a href="[https://www.paypal.com/donate/?hosted_button_id=DBFEBYRRHWXHU]"><img src="https://github.com/playmepe/BibliaPlay/assets/13964250/286e74e7-db2a-41b7-8230-2576b098bbf4" alt="" width="400"
-  height="341"/></a>
+<a href="[https://www.paypal.com/donate/?hosted_button_id=DBFEBYRRHWXHU]"><img src="https://github.com/playmepe/BibliaPlay/assets/13964250/286e74e7-db2a-41b7-8230-2576b098bbf4" alt="" width="50"
+  height="31"/></a>
