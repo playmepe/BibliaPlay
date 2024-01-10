@@ -27,7 +27,7 @@ Características:
 Si esta aplicación le ayudó en su vida no dude en donar desde este link: https://www.paypal.com/donate/?hosted_button_id=DBFEBYRRHWXHU
 ![logo-Paypal](https://github.com/playmepe/BibliaPlay/assets/13964250/286e74e7-db2a-41b7-8230-2576b098bbf4)
 <img
-  src="[images/dinosaur.jpg](https://github.com/playmepe/BibliaPlay/assets/13964250/286e74e7-db2a-41b7-8230-2576b098bbf4)"
+  src="https://github.com/playmepe/BibliaPlay/assets/13964250/286e74e7-db2a-41b7-8230-2576b098bbf4"
   alt="Si esta aplicación le ayudó en su vida no dude en donar desde este link:"
   width="400"
   height="341" />
