@@ -25,4 +25,4 @@ Características:
 ![2023-12-07_19-29](https://github.com/playmepe/BibliaPlay/assets/13964250/dfd4e68b-5d22-4aee-b3bb-abfacbb29572)
 
 Si esta aplicación le ayudó en su vida no dude en donar desde este link: https://www.paypal.com/donate/?hosted_button_id=DBFEBYRRHWXHU
-<div class="cw-footer__logo"></div>
+<div class="cw-footer__logo"></div>https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fpaypal-logo%2F&psig=AOvVaw3DuGue3ciAP2t8Ko0jNf22&ust=1704974484611000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjc147j0oMDFQAAAAAdAAAAABAD
